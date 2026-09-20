@@ -1,0 +1,5 @@
+# Tech Drive — techdrivemy.com
+User-agent: *
+Allow: /
+
+Sitemap: https://techdrivemy.com/sitemap.xml
