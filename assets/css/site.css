@@ -198,11 +198,6 @@ i[data-icon] svg{width:100%;height:100%;display:block}
 .card-link{display:flex;flex-direction:column;color:inherit}
 .card-link:hover{color:inherit}
 .card-link .link-arrow{margin-top:auto;padding-top:20px}
-/* Draft / action-required notice. Deliberately loud — these must not ship. */
-/* .card.card-warn — outranks the mint cell glow applied to .card later on. */
-.card.card-warn{border-color:rgba(245,192,74,.42);background:rgba(245,192,74,.05);
-  box-shadow:0 0 26px -15px rgba(245,192,74,.7)}
-.card-warn h3,.card-warn .eyebrow{color:var(--warn);text-shadow:0 0 14px rgba(245,192,74,.3)}
 .card-meta{margin-top:16px;padding-top:14px;border-top:1px solid var(--line);
   font-size:.8rem;color:var(--tx-3);font-family:'Space Grotesk',sans-serif;
   letter-spacing:.02em}
